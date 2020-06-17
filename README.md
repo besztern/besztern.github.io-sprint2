@@ -1,2 +1,2 @@
-# besztern.github.io-sprint2
+# besztern.github.io/sprint2
 mai próbálkozásom
